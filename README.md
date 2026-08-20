@@ -122,17 +122,15 @@ Phase
 Target
 Status
 Physical network build
-Q2 2026
+Q3 2026
 🔄 In Progress
 Lab VLAN & AD standup
-Q3 2026
+Q4 2026
 ⏳ Planned
 First Wireshark captures
-Q3 2026
+Q4 2026
 ⏳ Planned
 BTL1 lab exercises
 Q1 2027
 ⏳ Planned
-Azure cloud lab (AZ-500 prep)
-Q2 2027
-⏳ Planned
+
